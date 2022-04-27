@@ -97,8 +97,8 @@ public class testURLRead {
 
         //System.out.println(clock);
 
-       System.out.println("Cuaca di wilayah Kecamatan " + namaKec + ", Kab. " + namaKab + ", " +namaProv
+ /*      System.out.println("Cuaca di wilayah Kecamatan " + namaKec + ", Kab. " + namaKab + ", " +namaProv
                 + " pada tanggal " + date + " pukul " + clock + " waktu setempat diperkirakan akan " + cuaca + ".\nDengan Suhu = " + tempNow +  " °C\n" +
                 "Kelembapan = " + rhNow + " %\nKecepatan Angin = " + windSpeed + " m/s dari arah " + windDirect + ".");
-    }
+ */   }
 }
